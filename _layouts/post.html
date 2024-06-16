@@ -12,7 +12,13 @@ layout: default
       {{ content }}
   </div>
 
+  {% if page.tags.size > 0 %}
+  <p class="mb-3 h4" ><span class="bold">Tag{% if page.tags.size > 1 %}s{% endif %}: </span> 
+    <i style="color:darkgrey;">{{ page.tags | sort | join: ", " }}</i>
+  </p>
+  {% endif %}
 </article>
+
 
 <div class="container mx-auto px-2 py-2 clearfix">
   {% include previous-next.html %}
