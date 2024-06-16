@@ -9,4 +9,4 @@ date: '2024-06-16 02:30:00'
 tags: Technology Privacy Data Security
 ---
 
-It isn't surprising that as the web has made it easier to collect data, so have data laws proliferated. In this post, we'll go over 10 privacy best practices that you need to include in your projects in order to deliver high value successful MVPs without upsetting your partners in the privacy and compliance office of your company.
+It isn't surprising that as the web has made it easier to collect data, so have data laws proliferated. In this post, we'll go over 10 privacy best practices that you need to include in your projects in order to deliver high value and successful MVPs without upsetting your partners in the privacy and compliance office of your company.
