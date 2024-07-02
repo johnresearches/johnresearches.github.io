@@ -1,5 +1,5 @@
 ---
-title: Role of Security, The Cloud, and The Private Cloud Play With PHI and PII
+title: Role Security, The Cloud, and The Private Cloud Play With PHI and PII
 layout: post
 categories: articles
 category: technology

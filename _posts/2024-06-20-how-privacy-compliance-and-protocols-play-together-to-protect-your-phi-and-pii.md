@@ -1,5 +1,5 @@
 ---
-title: How Privacy, Compliance, and Protocols Play Together to Protect You PHI and
+title: How Privacy, Compliance, and Protocols Play Together to Protect Your PHI and
   PII
 layout: post
 categories: articles
