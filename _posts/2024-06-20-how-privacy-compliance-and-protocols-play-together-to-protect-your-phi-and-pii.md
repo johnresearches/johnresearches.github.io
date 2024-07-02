@@ -2,7 +2,7 @@
 title: How Privacy, Compliance, and Protocols Play Together to Protect Your PHI and
   PII
 layout: post
-categories: articles
+categories: blog
 category: technology
 author: Jonathan
 date: '2024-06-20 20:39:45'

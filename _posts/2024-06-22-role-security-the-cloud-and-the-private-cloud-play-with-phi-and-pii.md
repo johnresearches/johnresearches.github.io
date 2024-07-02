@@ -1,7 +1,7 @@
 ---
 title: Role Security, The Cloud, and The Private Cloud Play With PHI and PII
 layout: post
-categories: articles
+categories: blog
 category: technology
 author: Jonathan
 date: '2024-06-22 20:39:45'

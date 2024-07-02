@@ -2,7 +2,7 @@
 title: Top 5 Data Privacy Best Practices to Consider in Data Collection Projects in
   2024
 layout: post
-categories: articles
+categories: blog
 category: technology
 author: Jonathan
 date: '2024-06-16 02:30:00'
