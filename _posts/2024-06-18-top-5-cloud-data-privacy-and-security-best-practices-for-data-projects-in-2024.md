@@ -1,7 +1,7 @@
 ---
 title: Top 5 Cloud Data Privacy And Security Best Practices For Data Projects in 2024
 layout: post
-categories: writing
+categories: articles
 category: technology
 author: Jonathan
 date: '2024-06-18 20:39:45'

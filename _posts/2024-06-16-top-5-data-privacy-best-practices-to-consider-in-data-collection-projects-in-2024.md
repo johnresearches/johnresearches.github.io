@@ -2,7 +2,7 @@
 title: Top 5 Data Privacy Best Practices to Consider in Data Collection Projects in
   2024
 layout: post
-categories: writing
+categories: articles
 category: technology
 author: Jonathan
 date: '2024-06-16 02:30:00'
@@ -17,11 +17,6 @@ The following list is not comprehensive or in order, but it should provide a goo
 3. Compliance
 4. Privacy
 5. Security
-6. Cloud
-7. Private Cloud
-8. Role-Based Access Controls (RBAC)
-9. Attribute-Based Access Controls (ABAC) 
-10. Internal Use vs External Use
 
 Let's dive into each practice to learn why you need to keep these in mind before, during, and after your data collection project. 
 
