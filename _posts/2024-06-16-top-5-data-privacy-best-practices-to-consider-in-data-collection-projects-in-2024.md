@@ -9,7 +9,7 @@ date: '2024-06-16 02:30:00'
 tags: Technology Privacy Data Security
 ---
 
-It isn't surprising that as the web has made it easier to collect data, but so have data laws proliferated. In this post, we'll go over 5 privacy best practices that you need to include in your data collection projects in order to deliver high value and successful MVPs without upsetting your partners in the privacy and compliance office in your company.
+It isn't surprising that as the web has made it easier to collect data, but so have data laws proliferated. Data is vulnerable to a plethora of risks, so having strong vulnerability management and compliance controls is crucial. Having detection and analysis controls allows companies to scope impact, isolate suspicious activities, launch remediation campaigns in order to protect the company's data assests. In this post, we'll go over 5 privacy best practices that you need to include in your data collection projects in order to deliver high value and successful MVPs without upsetting your partners in the privacy and compliance office in your company.
 
 The following list is not comprehensive or in order, but it should provide a good baseline for your data collection project. 
 1. Consent
